@@ -19,7 +19,7 @@ To build this machine, we have utilized various electronic components, including
 
 This repository contains the microcontroller code, which executes in response to interactions with the Human-Machine Interface.
 
-![Demo Video](https://youtu.be/dYvrBg1zUvs)
+[Watch Demo Video](https://youtu.be/dYvrBg1zUvs)
 
 ![Automated Food Preparation Machine](https://raw.githubusercontent.com/ganeshpc007/Automated-Food-Preparation-Machine/main/main-pic1.jpg)
 
